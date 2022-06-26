@@ -25,7 +25,7 @@ function App() {
       <div className="cryptoHeader">
         <input
           type="text"
-          placeholder="Bitcoin..."
+          placeholder="Name of Crypto"
           onChange={(event) => {
             setSearchWord(event.target.value);
           }}
