@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-crypto-list/static/css/main.b3cbd7a6.css",
+    "main.js": "/simple-crypto-list/static/js/main.c0c7b58d.js",
+    "index.html": "/simple-crypto-list/index.html",
+    "main.b3cbd7a6.css.map": "/simple-crypto-list/static/css/main.b3cbd7a6.css.map",
+    "main.c0c7b58d.js.map": "/simple-crypto-list/static/js/main.c0c7b58d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cbd7a6.css",
+    "static/js/main.c0c7b58d.js"
+  ]
+}
